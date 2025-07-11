@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi, I'm Doğukan Avcı <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 <h3 align="center">Electrical & Electronics Engineer | Embedded Systems | Robotics | AI | Signal Processing</h3>
 
@@ -13,12 +11,16 @@
 
 ## 🧑‍💻 About Me
 
-- 🦾 Electrical & Electronics Engineering (ESOGU)
+- 🦾 Electrical & Electronics Engineer, graduated top 3rd of my class (GPA: 3.40/4.00)
+- 👨‍💻 Software Team Lead for 1 year at **Sartek**, **Sirius**, and co-captain + software team lead at **ESsirius**
+- 🏢 Completed internships at **VESTEL** and **Savronik**
+- 🏆 5x TEKNOFEST participant, managed TÜBİTAK-approved R&D projects
+- 📈 Provided private lessons in programming and embedded systems
 - 🔭 Working on **autonomous UAVs, robotics, and AI-powered embedded systems**
 - 🤖 Main interests: Embedded Systems, Robotics, Signal Processing, Computer Vision, AI
 - 💻 Tools: **C/C++**, **Python**, STM32, ROS, OpenCV, TensorFlow, Qt, Pygame, MATLAB
-- 🚀 TEKNOFEST, TUBITAK, and other competitions enthusiast
-- 🏆 Always learning & collaborating
+- 🚀 Passionate about R&D, teamwork, and innovation
+- 🏅 Always learning & collaborating
 
 ---
 
